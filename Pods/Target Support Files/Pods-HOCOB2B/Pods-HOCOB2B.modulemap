@@ -1,0 +1,6 @@
+framework module Pods_HOCOB2B {
+  umbrella header "Pods-HOCOB2B-umbrella.h"
+
+  export *
+  module * { export * }
+}
